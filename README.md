@@ -1,16 +1,18 @@
-## Hi there 👋
+# Salut, moi c'est Nico 👋
 
-<!--
-**nicode-labs/Nicode-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 En reconversion dans l'informatique
+🎓 Étudiant en BTS CIEL
+🏠 Je construis un **homelab** pour expérimenter réseau, systèmes et sécurité
 
-Here are some ideas to get you started:
+## 📚 J'apprends en ce moment
+- Langage **C**
+- Programmation **Arduino (C++)** sur **ESP32**
+- Réseaux (TCP/IP, routage, switching)
+- Linux et ligne de commande
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Outils
+C · C++ · Arduino · ESP32 · Linux · VS Code · Git
+
+## 🎯 Objectifs
+- Partager mes projets ESP32 et mes exercices en C
+- Documenter mon homelab ici au fil de l'eau
